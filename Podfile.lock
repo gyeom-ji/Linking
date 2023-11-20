@@ -1,0 +1,20 @@
+PODS:
+  - IKEventSource (3.0.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - IKEventSource
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - IKEventSource
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  IKEventSource: ababa323587c6b0c250dd54d4a48ab68fd845e8e
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 269a8bde4447920e2d0807eee9663095202e9266
+
+COCOAPODS: 1.12.1

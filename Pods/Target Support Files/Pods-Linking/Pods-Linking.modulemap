@@ -1,0 +1,6 @@
+framework module Pods_Linking {
+  umbrella header "Pods-Linking-umbrella.h"
+
+  export *
+  module * { export * }
+}
